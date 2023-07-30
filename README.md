@@ -10,9 +10,9 @@
 
 ---
 
-- 🔭 I'm currently working on React and Next app
-- 🌱 I'm currently learning Nuxt, NEST, FastApi
-- 👯 I'm looking to collaborate on Skype
+- 🔭 I'm currently working on React, Next, Vue and Nuxt 2 App
+- 🌱 I'm currently learning Nuxt 3, NEST, FastApi
+- 👯 I'm looking to collaborate on Slack, Skype
 - 🤔 I'm looking for help with Microservices
 - 💬 Ask me about python(Django), php(Laravel), javascript(Vue, React)
 - 😄 Pronouns: He/His
