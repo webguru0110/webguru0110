@@ -50,6 +50,7 @@
 #### Back-end Technologies:
 <img src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js" alt="Node.js Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB" alt="Express.js Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/NestJs-404d59?style=flat&logo=nestjs&logoColor=61DAFB" alt="Nest.js Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" alt="Socket.io Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php" alt="PHP Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel" alt="Laravel Badge" height="25">&nbsp;
@@ -87,6 +88,10 @@
 <a href="https://github.com/webguru0110">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=webguru0110&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=webguru0110&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+
+<a href="https://github.com/webguru0110">
+  <img align="center" src="https://metrics.lecoq.io/webguru0110?template=classic&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&isocalendar=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&isocalendar=false&isocalendar.duration=full-year&config.timezone=Europe%2FNetherlands">
 </a>
 </p>
 
