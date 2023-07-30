@@ -10,67 +10,74 @@
 
 ---
 
-- 🔭 I'm currently working on React, Next, Vue and Nuxt 2 App
-- 🌱 I'm currently learning Nuxt 3, NEST, FastApi
-- 👯 I'm looking to collaborate on Slack, Skype
-- 🤔 I'm looking for help with Microservices
-- 💬 Ask me about python(Django), php(Laravel), javascript(Vue, React)
-- 😄 Pronouns: He/His
+- 🔭 I'm currently working on **React, Next, Vue and Nuxt 2 App**
+- 🌱 I'm currently learning **Nuxt 3 and NEST**
+- 🌱&nbsp;Learning about **Web development & AI**
+- 💡&nbsp;I'm interested about **Computer science, and engineering.**
+- 🤝&nbsp;I like to collaborate in **Open Source Projects**
+- 👯 I'm looking to collaborate on **Slack, Discord and Skype**
+- 💬 Ask me about **python(Django), php(Laravel), javascript(Vue, React)**
+- 😄 Pronouns: **He/His**
 
 ---
 
-## My Skill Set
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/joblinkhire)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simon.andras.hung@gmail.com)
 
-<table><tr><td valign="top" width="33%">
-
-### Frontend
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-### Backend
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" alt="Laravel" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-</div>
-
-</td><td valign="top" width="33%">
-
-### DevOps
-
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" />  
-</div>
-
-</td></tr></table>
-
-<br/>
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/joblinkhire)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:simon.andras.hung@gmail.com) [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/---/)
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;Tech Stacks
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Redux toolkit](https://camo.githubusercontent.com/c47c27a3b025edc45c30460feb20ae4f84d3ec82d7d48a2d3cbda83476b60c0b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475785f546f6f6c6b69742d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465) ![RRK-query](https://camo.githubusercontent.com/eef8f975c23ccd284ce463b40941dd052f94a583b3f90fd4cb055dcbfb897335/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52544b5f51756572792d2532333539336438382e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)	![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 	![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+#### Front-end Technologies:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/SASS-hotpink?style=flat&logo=SASS&logoColor=white" alt="SASS Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Styled_Components-DB7093?style=flat&logo=styled-components&logoColor=white" alt="Styled Components Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-323330?style=flat&logo=javascript&logoColor=F7DF1E" alt="JavaScript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" alt="TypeScript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Vue.js-05122A?style=flat&logo=vuedotjs" alt="Vue.js Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Nuxt.js-05122A?style=flat&logo=nuxtdotjs" alt="Nuxt Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Angular-05122A?style=flat&logo=angular" alt="Angular Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=flat&logo=react-router&logoColor=white" alt="React Router Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/jQuery-05122A?style=flat&logo=jQuery" alt="jQuery Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/MUI-0081CB?style=flat&logo=mui&logoColor=white" alt="MUI Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white" alt="Vite Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next JS Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=white" alt="React Hook Form Badge" height="25">&nbsp;
+
+#### Back-end Technologies:
+<img src="https://img.shields.io/badge/Node.js-05122A?style=flat&logo=node.js" alt="Node.js Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Express.js-404d59?style=flat&logo=express&logoColor=61DAFB" alt="Express.js Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=socket.io&logoColor=white" alt="Socket.io Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/PHP-05122A?style=flat&logo=php" alt="PHP Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Laravel-05122A?style=flat&logo=laravel" alt="Laravel Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="Python Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Flask-05122A?style=flat&logo=flask" alt="Flask Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Django-05122A?style=flat&logo=django" alt="Django Badge" height="25">&nbsp;
+
+#### Databases:
+<img src="https://img.shields.io/badge/MongoDB-4ea94b?style=flat&logo=mongodb&logoColor=white" alt="MongoDB Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/MySQL-05122A?style=flat&logo=mysql" alt="MySQL Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-05122A?style=flat&logo=postgresql" alt="PostgreSQL Badge" height="25">&nbsp;
+
+#### Version Control & Hosting:
+<img src="https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white" alt="Git Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/GitHub-121011?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat&logo=netlify&logoColor=white" alt="Netlify Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white" alt="Render Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white" alt="Vercel Badge" height="25">&nbsp;
+
+#### Build Tools & Other Tools:
+<img src="https://img.shields.io/badge/Webpack-8DD6F9?style=flat&logo=webpack&logoColor=black" alt="Webpack Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chart.js&logoColor=white" alt="Chart.js Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/ESLint-4B3263?style=flat&logo=eslint&logoColor=white" alt="ESLint Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" alt="Postman Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Adobe_Photoshop-31A8FF?style=flat&logo=adobe%20photoshop&logoColor=white" alt="Adobe Photoshop Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white" alt="Figma Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker" alt="Docker Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux" alt="Linux Badge" height="25">&nbsp;
 
 
 
