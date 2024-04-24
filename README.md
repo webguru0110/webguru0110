@@ -10,8 +10,8 @@
 
 ---
 
-- 🔭 I'm currently working on **React, Next, Vue and Nuxt 2 App**
-- 🌱 I'm currently learning **Nuxt 3 and NEST**
+- 🔭 I'm currently working on **React, Next, Vue, Angular17 and Nuxt 3 App**
+- 🌱 I'm currently learning **NEST**
 - 🌱&nbsp;Learning about **Web development & AI**
 - 💡&nbsp;I'm interested about **Computer science, and engineering.**
 - 🤝&nbsp;I like to collaborate in **Open Source Projects**
@@ -22,7 +22,7 @@
 ---
 
 [![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/joblinkhire)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:simon.andras.hung@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmytromishchenkov@gmail.com)
 
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
