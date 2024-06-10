@@ -10,7 +10,7 @@
 
 ---
 
-- 🔭 I'm currently working on **React, Next, Vue, Angular17 and Nuxt 3 App**
+- 🔭 I'm currently working on **React, Next, Vue, Angular17 and Nuxt 3, ERPNext Frappe App**
 - 🌱 I'm currently learning **NEST**
 - 🌱&nbsp;Learning about **Web development & AI**
 - 💡&nbsp;I'm interested about **Computer science, and engineering.**
@@ -21,7 +21,7 @@
 
 ---
 
-[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/joblinkhire)
+[![Telegram Badge](https://img.shields.io/badge/Telegram-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/superdev)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dmytromishchenkov@gmail.com)
 
 
